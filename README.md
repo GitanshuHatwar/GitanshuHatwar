@@ -32,3 +32,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitanshuhatwar&show_icons=true&locale=en&layout=compact" alt="gitanshuhatwar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitanshuhatwar&show_icons=true&locale=en" alt="gitanshuhatwar" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GitanshuHatwar/GitanshuHatwar/output/snake.svg" alt="Snake animation" />
+
+###
