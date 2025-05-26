@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gitanshu Hatwar</h1><img src = "https://www.icegif.com/wp-content/uploads/2025/05/hi-icegif-1.gif" align = right
-                                                   >
+<h1 align="center">Hi 👋, I'm Gitanshu Hatwar</h1><img src = "https://www.icegif.com/wp-content/uploads/2025/05/hi-icegif-1.gif" align = right width = "24%" >
+                                                   
 <h3 align="center">A passionate Web Developer & ML in Game Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitanshuhatwar&label=Profile%20views&color=0e75b6&style=flat" alt="gitanshuhatwar" /> </p>
