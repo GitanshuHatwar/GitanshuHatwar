@@ -1,90 +1,142 @@
-<h1 align="center">Hi 👋, I'm Gitanshu Hatwar</h1>
-<h3 align="center">AIML & Data Structure and Algorithm Enthusiast</h3>
+# Gitanshu Hatwar
 
+**AI/ML Engineer & Full-Stack Developer**  
+*Passionate about Data Structures, Algorithms, and Building Scalable Solutions*
 
+[![Profile Views](https://komarev.com/ghpvc/?username=gitanshuhatwar&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gitanshuhatwar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gitanshu-hatwar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gitanshuhatwar@gmail.com)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gitanshuhatwar&label=Profile%20views&color=0e75b6&style=flat" alt="gitanshuhatwar" />
-</p>
-
-<pre align = "left">
-- 🔭 I am currently working on **Building my skills**  
-- 🌱 I’m currently learning **Data Structures and Patterns**  
-- 💼 Previously worked on **Edutech Platform**  
-- 🚀 Recent project: [Real Time Delivery Management System](https://github.com/KushalJain07/RDMS_1.git)  
-- 👨‍💻 All my projects: [Portfolio](https://violet-francyne-27.tiiny.site/)  
-- 💬 Ask me about **Cars**  
-- 📫 Reach me at **gitanshuhatwar@gmail.com**  
-- 📄 My resume: [Google Drive](https://drive.google.com/file/d/1SvtF0VnQ1CB9N-4KzHc_YHOiagGQFQ7-/view?usp=sharing)  
-- ⚡ Fun fact: **Currently high on Caffeine ☕**  
-</pre>
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/gitanshu-hatwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitanshu hatwar" height="30" width="40" />
-  </a>
+I'm a dedicated AI/ML enthusiast and software developer with a strong foundation in data structures and algorithms. Currently focused on expanding my expertise in machine learning, backend development, and creating innovative solutions that make a real-world impact.
+
+- 🎯 **Current Focus**: Advancing my skills in AI/ML and system design
+- 📚 **Learning**: Advanced Data Structures, Design Patterns, and ML Algorithms  
+- 💼 **Experience**: EdTech Platform Development
+- 🚀 **Recent Achievement**: Built a Real-Time Delivery Management System
+- 🎨 **Interests**: Automotive technology, 3D modeling, and UI/UX design
+- ☕ **Fun Fact**: Powered by caffeine and curiosity
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 EduTech Platform
+A web-based centralized platform designed to organize and manage educational notes for students. Features an intelligent RAG (Retrieval-Augmented Generation) model for interactive learning experiences.
+
+**Tech Stack**: Python (Flask), LangChain, Gemini AI (LLM), HTML, CSS, JavaScript  
+**Key Features**: Class management system, Student enrollment, AI-powered Q&A, Note organization  
+[![Code](https://img.shields.io/badge/-Code-000000?style=flat&logo=github&logoColor=white)](#) [![Live Demo](https://img.shields.io/badge/-Live%20Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](#)
+
+### 🚦 Smart Traffic Management System
+An intelligent traffic control system that dynamically adjusts signal duration based on real-time vehicle detection using computer vision technology.
+
+**Tech Stack**: Python, YOLO-v8 (Object Detection), OpenCV, React, PostgreSQL  
+**Key Features**: Real-time vehicle counting, Dynamic signal timing, Computer vision integration  
+[![Code](https://img.shields.io/badge/-Code-000000?style=flat&logo=github&logoColor=white)](#) [![Live Demo](https://img.shields.io/badge/-Live%20Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](#)
+
+### 📰 News Summarizer
+A responsive web application that transforms lengthy news articles into concise, digestible summaries with an intuitive user interface.
+
+**Tech Stack**: HTML, CSS, JavaScript, Python  
+**Key Features**: Article input interface, Automated summarization, Responsive design, Fast performance  
+[![Code](https://img.shields.io/badge/-Code-000000?style=flat&logo=github&logoColor=white)](#) [![Live Demo](https://img.shields.io/badge/-Live%20Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](#)
+
+### [Portfolio Website](https://violet-francyne-27.tiiny.site/)
+Personal portfolio showcasing my projects, skills, and professional journey.
+
+**Tech Stack**: HTML5, CSS3, JavaScript, Responsive Design
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### **Full-Stack Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/-MERN-61DAFB?style=flat&logo=react&logoColor=black)
+
+### **Frontend Technologies**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### **Mobile & Desktop Development**
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Electron.js](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+
+### **Databases & Cloud Services**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat&logo=amazon-s3&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### **Design & Creative**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
   
-  <a href="https://stackoverflow.com/users/dev_gitanshu_me" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dev_gitanshu_me" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/gitanshu_hatwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gitanshu hatwar" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/gitanshuhatwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gitanshuhatwar" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/CMqgjKEy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-  </a>
-</p>
-<p align="right">
- <img src="https://www.icegif.com/wp-content/uploads/2025/05/hi-icegif-1.gif" width="24%" alt="Hi GIF" />
-</p>
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitanshuhatwar&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitanshuhatwar&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitanshuhatwar&theme=default&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitanshuhatwar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitanshuhatwar&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+I'm always interested in collaborating on innovative projects and discussing new opportunities in AI/ML and software development.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitanshuhatwar" alt="GitHub Streak" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gitanshu-hatwar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitanshuhatwar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://violet-francyne-27.tiiny.site/)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SvtF0VnQ1CB9N-4KzHc_YHOiagGQFQ7-/view?usp=sharing)
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZianp0OGRmcGUzcnpxcWdqaTljejUwaHlhanF4NnJxZ3V2ODlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.gif" width="50%" alt="Welcome GIF" />
-</p>
+### **Additional Profiles**
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/gitanshuhatwar)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dev_gitanshu_me)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gitanshu_hatwar)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/CMqgjKEy)
 
+---
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**⭐ From [gitanshuhatwar](https://github.com/gitanshuhatwar)**
+
+</div>
