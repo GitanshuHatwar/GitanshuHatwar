@@ -73,8 +73,8 @@ A responsive web application that converts long news articles into **concise, me
 
 Personal portfolio showcasing projects, skills, and professional journey.
 
-🔗 [https://violet-francyne-27.tiiny.site/](https://violet-francyne-27.tiiny.site/)
-**Tech Stack**: HTML5, CSS3, JavaScript
+🔗 [View @_@](https://v0-vizify-sooty-six.vercel.app/)
+**Tech Stack**: MERN Stack
 
 ---
 
