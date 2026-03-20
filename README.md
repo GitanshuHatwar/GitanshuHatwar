@@ -6,7 +6,7 @@
 
 # Gitanshu Hatwar
 
-**AI/ML Engineer | Automation Enthusiast | Full-Stack Developer**
+**AI/ML Engineer | Automation Enthusiast | Full-Stack Developer| Tech Enthusiast**
 *Building intelligent systems, scalable platforms, and data-driven solutions*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/gitanshu-hatwar)
