@@ -18,16 +18,12 @@
 
 I am an **AI/ML-focused software engineer** with a strong background in **Data Structures, Algorithms, and Full‑Stack Development**. I specialize in building **intelligent, automation‑driven systems** that combine machine learning, backend engineering, and modern web technologies to solve real‑world problems.
 
-My core interests lie in **Machine Learning, Retrieval‑Augmented Generation (RAG), intelligent automation, and system design**, with hands‑on experience in developing AI‑powered platforms, chatbots, and real‑time applications. I enjoy transforming complex data into actionable insights and scalable products.
-
 * 🎯 **Current Focus**: AI/ML engineering, intelligent automation, and scalable system design
 * 🤖 **AI Interests**: Machine Learning, NLP, RAG pipelines, Computer Vision, LLM applications
 * ⚙️ **Automation**: Workflow automation, AI‑assisted decision systems, backend optimization
 * 📚 **Learning**: Advanced ML algorithms, MLOps, design patterns, distributed systems
 * 💼 **Experience**: EdTech & AI‑driven platform development
-* 🚀 **Recent Achievement**: **SIH 2025 Finalist (Smart India Hackathon)**
-* 🎨 **Interests**: Automotive technology, 3D modeling, UI/UX design
-* ☕ **Fun Fact**: Powered by caffeine, curiosity, and clean architecture
+* 🚀 **Recent Achievement**: **SIH 2025 Finalist (Smart India Hackathon)*
 
 ---
 
